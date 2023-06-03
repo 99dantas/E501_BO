@@ -57,6 +57,8 @@ For detailed explanation on how things work, checkout the [guide](https://github
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
 
+## Alterações Realizadas
+
 vue ( na pasta pages que é onde estão feitas as alterações mais significativas) 
 -dashboard:  estatísticas de número de reservas campos, do dinheiro feito com reservas de aulas e campos, do número de aulas, do numero de utilizadores,estatisticas do número de raquetes por utilizador, estatisticas do campo e horas mais escolhidas pelos utiizadores para reserva campo
 -perfil: dados do administrdor
